@@ -1,0 +1,7 @@
+*.DS_Store
+*.env
+src/
+data/
+edamam_results/
+food_info/
+*.pkl
