@@ -1,0 +1,966 @@
+food1,food2,similarity
+bud light,bud light beer,0.9789959266135202
+camembert,camembert cheese,0.9780592163213866
+grilled cheese sandwich,grilled cheese,0.9733075600271861
+halloumi,halloumi cheese,0.972275454128189
+ricotta,ricotta cheese,0.9717253656150427
+cheez-its,cheez-it,0.9714606578015115
+flax meal,flaxmeal,0.9689970012071516
+triscuit,triscuits,0.968960975358815
+rooibos tea,rooibos,0.9676410449133588
+shiitake,shiitake mushroom,0.9674402904310607
+hearts of palm,heart of palm,0.9673681199433843
+hollandaise,hollandaise sauce,0.9664901866545371
+sunflower seed,sunflower seeds,0.9659078028022077
+frito,fritos,0.9656511161933241
+flat white,flat white coffee,0.9651757728857877
+balsamic dressing,balsamic salad dressing,0.9642381368687318
+sunflower seed butter,sunflower butter,0.9640181812390962
+sourdough bread,sourdough,0.963969992155086
+thinkthin protein bar,thinkthin high protein bar,0.9632214365338899
+whey protein isolate,whey isolate,0.9627541402283756
+vegetable scramble,vegetable breakfast scramble,0.9626848414788125
+s'mores,s'more,0.9603946015404538
+cold brew,cold brew coffee,0.9597421334397835
+pepper jack cheese,pepper jack,0.9596260255230923
+vegetable scramble,vegetable egg scramble,0.9588926621800544
+tuna sandwich,tuna salad sandwich,0.958864872932782
+ribeye steak,ribeye,0.9578073241965044
+mushroom,mushrooms,0.95675458740167
+hamburger patty,burger patty,0.9548694253109675
+sriracha,sriracha sauce,0.9546350741669887
+beef brisket,brisket,0.9545812401913414
+challah,challah bread,0.9544849660880343
+mozzarella,mozzarella cheese,0.9537337411523846
+whole wheat english muffin,wheat english muffin,0.953587643502052
+cashew,cashew nut,0.9527742460234873
+bolognese,bolognese sauce,0.9522621001804354
+whole grain toast,whole wheat toast,0.9522084464366425
+vinaigrette,vinaigrette dressing,0.9520985910411865
+blue cheese dressing,blue cheese salad dressing,0.9519893242891959
+marinara sauce,marinara,0.9515243135245389
+vegetable egg scramble,vegetable breakfast scramble,0.9513103888758336
+babybel cheese,babybel,0.95071168142473
+orange pekoe tea,orange pekoe,0.9501094715264262
+maitake,maitake mushroom,0.9498617665576949
+béchamel sauce,béchamel,0.9495632946855583
+macadamia,macadamia nut,0.9481425653009533
+tikka masala,chicken tikka masala,0.9478502756370126
+pastrami,pastrami sandwich,0.9474549163544712
+pu-erh tea,pu-erh,0.9469222908492375
+rose hip,rosehip,0.9468530692902094
+philly cheesesteak,cheesesteak,0.9468027916168043
+pesto,pesto sauce,0.9465160478544867
+pringles,pringle,0.9461352221291703
+monster energy,monster energy drink,0.9453467142157242
+cheddar,cheddar cheese,0.9442084968424372
+yerba mate,yerba mate tea,0.9437886213772351
+comté cheese,comté,0.9433232969834645
+pepperoni pizza,pepperoni,0.9431820917763223
+whole grain bread,whole wheat bread,0.9430110914934136
+omelette,egg omelet,0.9427102051152089
+hemp seed,hempseed,0.9422607014851194
+romaine,romaine lettuce,0.9410434378055563
+egg scramble,breakfast scramble,0.93979068467016
+dandelion tea,dandelion root tea,0.9394705375562993
+cabernet,cabernet sauvignon,0.9392313331538387
+french fry,french fries,0.9387751738438349
+sun chips,sunchips,0.9382677602260843
+balsamic vinaigrette,balsamic salad dressing,0.9378390007400644
+kettle chip,kettle chips,0.937063007563496
+espresso,espresso coffee,0.9367180601220021
+fries,french fries,0.9352765509818228
+romaine lettuce,romaine salad,0.9348677521247037
+scrambled egg,egg scramble,0.9345258198461104
+chamomile tea,chamomile,0.9337604563789821
+oat crunch,oat crunch cereal,0.9333912866921772
+chai,chai tea,0.9331702496586479
+non-alcoholic beer,alcohol-free beer,0.9330030265786666
+egg burrito,egg and cheese burrito,0.9322659362988307
+oreo,oreo cookie,0.932186390903645
+cacao nib,cocoa nib,0.9321723067558395
+aloe vera,aloe,0.9319513271589136
+breakfast burrito,bacon breakfast burrito,0.9316235639741091
+walnut,walnuts,0.9307033123240178
+feta cheese,feta,0.9303102093181717
+olive oil dressing,olive oil and vinegar dressing,0.9301007589521406
+cutie,cuties,0.9296585443068834
+diet coke,diet cola,0.9281048104499448
+brie cheese,brie,0.927882669595011
+pita bread,pita,0.9273874483621749
+maple brown sugar oatmeal,brown sugar oatmeal,0.9262305336255161
+carne asada taco,asada taco,0.9256754167737631
+mixed nuts,nut mix,0.9253833015035897
+balsamic vinegar,balsamic,0.9249872394221845
+kefir,milk kefir,0.9243287333306035
+bean burrito,bean cheese burrito,0.9240818902583818
+fettuccine alfredo,pasta alfredo,0.9235494592711557
+kava,kava tea,0.9231629340300169
+balsamic vinaigrette,balsamic dressing,0.9227155732603004
+sweetcorn,sweet corn,0.9226739960946106
+parmigiano,parmigiano reggiano,0.9214956989036047
+mixed greens,mixed green salad,0.9214272833685306
+bone broth,chicken bone broth,0.9213858995682672
+alfredo sauce,pasta alfredo,0.9207943050165045
+arugula,arugula salad,0.9205903636567224
+collard,collard green,0.9189570518277701
+diet soda,diet cola,0.9188820021118327
+turkey sandwich,turkey breast sandwich,0.9188391563369099
+chicken salad,chicken salad sandwich,0.9188328014686971
+macchiato,espresso macchiato,0.9181350671480253
+iceberg lettuce,iceberg salad,0.918028707044729
+lactaid milk,lactaid,0.9179317438436572
+bone broth,beef bone broth,0.9175018137728872
+egg sandwich,egg salad sandwich,0.9172703005701833
+egg salad,egg salad sandwich,0.9172131072848532
+chicken tortilla soup,tortilla soup,0.9170266056009737
+pilaf,rice pilaf,0.9158152860479843
+grapefruit,grapefruit juice,0.91566372836293
+honeycrisp apple,honeycrisp,0.9156148213895496
+romaine,romaine salad,0.9152818517404746
+cutlet,chicken cutlet,0.9149176223128883
+baked chicken,baked chicken breast,0.9144969063648034
+basmati rice,basmati,0.9135250615243571
+whole grain bread,wholemeal bread,0.9127739922835553
+sesame seed,sesame,0.9124286009775817
+vegetable burrito,vegetable breakfast burrito,0.9123839465972764
+steak,beef steak,0.9123701494773755
+miso soup,miso,0.9120945285894853
+whey protein,whey protein shake,0.9113997105099739
+pasta sauce,spaghetti sauce,0.911230054390304
+chocolate chip,chocolate chip cookie,0.9107312070763415
+wheat toast,whole wheat toast,0.9105454313833194
+tuna sandwich,tuna mayo sandwich,0.9102523552102247
+chocolate almond,dark chocolate almond,0.9101948272242044
+whey protein,whey,0.9099201684667763
+heavy whipping cream,heavy cream,0.9092932817675716
+tuna mayo,tuna mayo sandwich,0.9092813783398588
+chicken enchilada,enchilada,0.9090398881017162
+paella,seafood paella,0.9090010100697615
+cacao powder,cocoa powder,0.9079973758633546
+tuna salad,tuna salad sandwich,0.9079331568995332
+premier protein,premier protein drink,0.9077772231483203
+fajita,chicken fajita,0.9073003618331105
+balsamic vinegar,balsamic vinaigrette,0.9071060999532019
+fruit smoothie,fruit yogurt smoothie,0.906998829564599
+corn chip,corn tortilla chip,0.9065683909866531
+protein shake,whey protein shake,0.9064917998382991
+flaxseed,flaxmeal,0.9063929683732941
+chicken korma,korma,0.9063166628356192
+cheese burrito,bean cheese burrito,0.9059516491242331
+tuna salad sandwich,tuna mayo sandwich,0.9058553377507202
+tres leches,tres leches cake,0.9057753971795335
+lemongrass,lemongrass tea,0.9056831248079324
+tortilla chip,corn tortilla chip,0.904967163193996
+whole wheat bread,wholemeal bread,0.9045811378983704
+egg burrito,egg sausage burrito,0.9045165232035361
+diet coke,diet soda,0.9041466897377468
+yogurt fruit,fruit yogurt,0.9039429664819773
+ham sandwich,ham and cheese sandwich,0.9038471107240864
+red pepper,red bell pepper,0.9033764317511171
+ginger water,ginger lemon water,0.9026707727642934
+rice krispies,rice krispies treat,0.9025609498092722
+egg yolk,yolk,0.9025019746067064
+carne asada taco,carne asada,0.9017965129071304
+vegetable smoothie,fruit and vegetable smoothie,0.9016703492364906
+beef broth,beef bone broth,0.9016626017431593
+ginger snap,gingersnap,0.9003718567812633
+chia seed,chia,0.9002943157548193
+smoothie,fruit smoothie,0.9002683322729821
+skyr,icelandic skyr,0.8995178543766014
+chicken masala,chicken tikka masala,0.8990872832931471
+onion dip,french onion dip,0.8987460716607228
+mixed salad,mixed green salad,0.898068875116887
+ipa beer,ipa,0.8979548068617745
+strudel,apple strudel,0.8976800175206123
+maca,maca root,0.89758244868408
+colby cheese,colby jack cheese,0.895277332365507
+wheat bread,whole wheat bread,0.895145728838956
+weetabix,weet-bix,0.8949251484204381
+cauliflower crust,cauliflower crust pizza,0.8948894312663302
+pomegranate,pomegranate juice,0.8948313139373136
+roast beef,roast beef sandwich,0.8944471965363407
+roast beef sandwich,roast beef swiss sandwich,0.8941198744086138
+latte,caffe latte,0.8940516196772341
+chicken sandwich,chicken salad sandwich,0.8940154540808227
+fried rice,chicken fried rice,0.8940081235818184
+thinkthin protein bar,thinkthin bar,0.8937314926288725
+lettuce,leaf lettuce,0.8933590254594477
+lay's,lay's potato chip,0.8928823712987434
+egg burrito,breakfast burrito,0.8924411729621966
+carnitas taco,carnitas,0.8923563632840005
+chicken broth,chicken bone broth,0.8922799473705623
+split pea soup,split pea and ham soup,0.892241436010965
+breakfast burrito,vegetable breakfast burrito,0.891988320539933
+ginger beer,ginger ale,0.8917877212944607
+t-bone steak,t-bone,0.8917279216779104
+café au lait,au lait,0.891362953984778
+jerky,beef jerky,0.8911532461720699
+egg sandwich,egg and cheese sandwich,0.8908920324202658
+pork,pork meat,0.8905063543641263
+beef patty,burger patty,0.8904454750671555
+chicken alfredo,pasta alfredo,0.8904313480288225
+chicken pot pie,pot pie,0.8904243450469829
+garlic-stuffed olives,stuffed olives,0.890144111620658
+bell pepper,green bell pepper,0.8899298143870205
+kolach,kolache,0.889812300616587
+pinot noir,pinot,0.8893843173937247
+chicken soup,chicken noodle soup,0.8891426317655684
+mate tea,yerba mate tea,0.8889807780007257
+taro,taro root,0.8886021111384372
+ginger tea,lemon ginger tea,0.8885252597615803
+gummies,gummy,0.8879967227387231
+goji berry,goji,0.8879339987415552
+beetroot,beet,0.8877277180610775
+bell pepper,red bell pepper,0.8874824475799385
+baileys,bailey's irish,0.8874595013039739
+antipasto,antipasti,0.8873891222649612
+salt and vinegar chip,salt and vinegar crisps,0.8872781461268557
+turkey sandwich,turkey and cheese sandwich,0.8868158707024667
+chai latte,chai tea,0.8866804018879249
+nettle tea,nettle,0.8854925480491909
+dr pepper,diet dr pepper,0.8848984119362202
+apple cider,cider,0.8848693295741514
+pumpernickel,pumpernickel bread,0.8844774980369223
+syrup,sugar syrup,0.8834132457088741
+rotisserie chicken,rotisserie,0.8832831343707241
+dosa,masala dosa,0.8830070468361624
+cheez-its,cheezies,0.8827928214105758
+flaxseed,flax meal,0.8827709661593721
+cholula hot sauce,cholula,0.8824906963980675
+siggi's,siggi's yogurt,0.8824465011937057
+snap pea,sugar snap pea,0.8823258672486232
+spinach dip,spinach artichoke dip,0.8818450488066831
+boiled egg,hard-boiled egg,0.8818368780470071
+wholemeal bread,wholemeal,0.8816547752284517
+oatmeal cookie,oatmeal raisin cookie,0.8815167771992056
+fettuccine alfredo,alfredo sauce,0.8814848299332015
+thyme,thyme tea,0.8811798038432455
+pesto,pesto pasta,0.8811549195232902
+pesto,basil pesto,0.8811148750780479
+rosehip tea,rosehip,0.8804939417569002
+curd,cheese curd,0.8803793411011707
+ginger cookie,ginger biscuit,0.8801788184510722
+pesto sauce,pesto pasta,0.8798791630568317
+chocolate truffle,truffle,0.8798292877810578
+whole grain bread,whole grain,0.8797671439000493
+fries,french fry,0.8797044002526538
+mixed green salad,mixed leaf salad,0.8794037641584471
+pinot grigio,pinot gris,0.8792670738603334
+kale,kale salad,0.8792075481886261
+tonkotsu ramen,tonkotsu,0.8790549493072926
+breakfast casserole,egg casserole,0.8789246894277656
+tahini,tahini dressing,0.8788134831070977
+balsamic vinegar,balsamic salad dressing,0.878798663351495
+pesto pasta,pesto pasta salad,0.8786001974965467
+balsamic vinegar,balsamic dressing,0.8785855201754793
+parmesan,parmigiano,0.8781845047232834
+gratin,au gratin,0.8780010792042557
+chicken pie,chicken pot pie,0.8774744903545761
+egg and cheese burrito,egg sausage burrito,0.8772428416715962
+green salad,green leaf salad,0.8770844188375688
+grape,grape juice,0.8770843337893697
+balsamic,balsamic dressing,0.8770066606339985
+egg sandwich,egg and bacon sandwich,0.876965928699565
+cranberry,cranberry juice,0.8769470771829972
+banana smoothie,strawberry banana smoothie,0.8766228759190213
+onion dip,sour cream and onion dip,0.876316892749035
+blackberry jam,blackcurrant jam,0.8762922256663506
+granola bar,granola,0.8761702628100771
+chicken alfredo,alfredo sauce,0.8759903602964474
+ginger ale,gingerade,0.8757759311500857
+stir-fry,chicken stir-fry,0.8757446648172363
+gumbo,seafood gumbo,0.8757215051053135
+chocolate chip cookie,chocolate cookie,0.875507306029621
+pulled pork,pulled pork sandwich,0.8753016644796694
+kind bar,kind protein bar,0.874777103410935
+breakfast burrito,egg and cheese burrito,0.87474106563432
+lemon water,ginger lemon water,0.8746720006049955
+soy milk,soy drink,0.8744397812621046
+almond milk,chocolate almond milk,0.8743491557643341
+extra virgin olive oil,virgin olive oil,0.8741430239199897
+stevia,stevia extract,0.8737487147864859
+buckwheat,buckwheat groat,0.8736110152704821
+protein shake,protein drink,0.873478393111228
+mountain dew,diet mountain dew,0.8732269660650599
+spinach,spinach leaf,0.8730287658663162
+burrito,bean burrito,0.8727241673474281
+coors light,coors,0.8726875929492071
+juice,fruit juice,0.872524842068317
+sausage,pork sausage,0.8724465482550192
+spring mix,spring mix greens,0.8722557863208438
+vegetable burger,vegan burger,0.8720771923156194
+blue cheese,blue cheese dressing,0.8720766771689862
+lemon pie,lemon meringue pie,0.8718556699628454
+chicken street taco,street taco,0.8714710390213265
+avocado sandwich,turkey avocado sandwich,0.8713311252519407
+grapefruit,pink grapefruit,0.8712179111445133
+perogies,pierogi,0.871125414756106
+mint chocolate,mint candy,0.8709023838906698
+lemon,lemon juice,0.8703638211623098
+nut bar,fruit nut bar,0.8700512177943694
+black bean,black bean soup,0.8698497097810466
+peppermint tea,peppermint,0.869645584371568
+egg and cheese sandwich,egg and bacon sandwich,0.8696434842466001
+turmeric,turmeric tea,0.8691921675365504
+chicken taco,chicken street taco,0.8691831742282252
+tri-tip,tri-tip sandwich,0.8690397243153678
+hibiscus tea,hibiscus,0.8689629225645052
+m&m's,peanut m&m's,0.8686043953805986
+lemon tea,lemon ginger tea,0.8684053638545143
+oat milk,oat milk latte,0.8684020796091697
+salchichón ibérico,jamón ibérico,0.86834855823781
+garlic bread,garlic toast,0.8682808637020014
+veganaise,vegenaise,0.8682008349555814
+coconut cream,coconut creamer,0.8680849424292238
+pesto,green pesto,0.8673370958880686
+caesar salad,caesar dressing,0.8669610762248678
+basil pesto,pesto sauce,0.8669219735764867
+vine leaf,grape leaf,0.8667761004592749
+chili,chilies,0.8662663273105338
+sweet and sour sauce,sweet and sour chicken,0.8655074745571657
+vegan protein,plant protein,0.8654793406843531
+chocolate tea,cacao tea,0.8652488946891659
+cheez-it,cheezies,0.8648133872920765
+butternut squash soup,butternut squash,0.8647479151268639
+salmon fillet,fish fillet,0.8640835967078139
+v8,v8 energy,0.8640654085545437
+english muffin,wheat english muffin,0.8640542758377607
+pasta salad,pesto pasta salad,0.8633945200443681
+ginger ale,diet ginger ale,0.8632653282083106
+rye bread,rye toast,0.8629673338503773
+spring greens,spring mix greens,0.8626732999243858
+pecorino,pecorino romano,0.8626139404883996
+green salad,mixed green salad,0.8621742840409536
+rosehip tea,rose hip,0.8621116363966213
+bento box,bento,0.8620544884711507
+scrambled egg,breakfast scramble,0.8619857145091578
+greek yogurt,vanilla greek yogurt,0.861891644962526
+chai tea,masala chai,0.8616255621550423
+flax,flaxseed,0.8615750170451715
+protein bar,plant protein bar,0.8614124090260373
+green juice,green drink,0.8609579966310896
+english muffin,whole wheat english muffin,0.8608492128543541
+protein shake,chocolate protein shake,0.8607988997362639
+bagel,bagel sandwich,0.8604804213225169
+whey protein,whey protein isolate,0.8602518100016416
+matcha,matcha latte,0.8601850337520995
+milk,cow milk,0.8601028638743535
+spinach,spinach salad,0.8599907836915697
+vegetable scramble,breakfast scramble,0.8599592625094049
+beef burger,burger,0.8599544573237524
+lime,lime juice,0.8599043092935104
+celery,celery root,0.8598162780861279
+beef patty,hamburger patty,0.859564166955002
+thinkthin bar,thinkthin high protein bar,0.8594743964198144
+cinnamon bread,cinnamon raisin bread,0.8592458602473096
+almond,chocolate almond,0.8592024144562007
+cocoa,cacao,0.859036749534088
+leaf lettuce,red leaf lettuce,0.8589289084859074
+molasses,blackstrap molasses,0.8587224081665257
+chicken breast,fried chicken breast,0.8585979348397124
+oatmeal cookie,vegan oatmeal cookie,0.8584182438641288
+greek yogurt,strawberry greek yogurt,0.858283769957174
+spaghetti,spaghetti sauce,0.8582309534377592
+sesame seed,sesame oil,0.8581350952325477
+chocolate syrup,hershey's chocolate syrup,0.8576696057514934
+gummy,gummy bear,0.8575232934199541
+tuna sandwich,tuna salad,0.8574301170502014
+vegetable wrap,salad wrap,0.857403685074673
+balsamic,balsamic vinaigrette,0.8573148863678648
+corn tortilla,corn tortilla chip,0.8572585954243024
+sauvignon blanc,sauvignon,0.857211891154912
+biscuit,chocolate biscuit,0.8571523613660632
+cinnamon roll,cinnamon bun,0.856825112856302
+tomato sauce,pasta sauce,0.8563907784162406
+aloo paratha,paratha,0.8561694219730261
+dill pickle,dill,0.8561123257925437
+artichoke,artichoke heart,0.8559112649755103
+chicken broth,broth,0.8558501757601737
+quinoa,quinoa salad,0.8556603473258249
+fettuccine alfredo,chicken alfredo,0.855617564453184
+parmesan,parmigiano reggiano,0.8555391484196788
+green smoothie,green juice,0.8552636201920503
+fruit yogurt,fruit yogurt smoothie,0.8550124091649729
+pulled pork sandwich,pork sandwich,0.854941517331958
+pumpkin,pumpkin pie,0.8549143096828018
+balsamic,balsamic salad dressing,0.8548255751509732
+diet coke,diet pepsi,0.8547377302869605
+cinnamon toast,cinnamon toast crunch,0.8547205947836811
+bulletproof coffee,bulletproof decaf coffee,0.8547077898268352
+lemon ginger tea,ginger lemon water,0.8545581403983926
+taiyaki,takoyaki,0.8544099600353361
+casserole,chicken casserole,0.8541804934585701
+burrito,chicken burrito,0.8541601786621001
+fennel,fennel salad,0.8541191751751821
+hamburger,burger,0.854108455199811
+wholemeal,whole grain,0.8540396688269718
+peanut butter bar,coconut peanut butter bar,0.8539612094251334
+cheese burrito,egg and cheese burrito,0.8538209731372558
+coconut oil,coconut,0.8534051685585836
+cacao tea,chocolate cacao husk tea,0.852862564074152
+butternut squash soup,squash soup,0.8528364257072194
+chicken breast,baked chicken breast,0.8524385374178247
+salad,green salad,0.852381517692238
+sunflower butter,sunbutter,0.8521306303243128
+teriyaki chicken,teriyaki sauce,0.8520870054485432
+flax,flaxmeal,0.8519171979863656
+turkey breast,turkey breast sandwich,0.8518403850767262
+cabbage,cabbage salad,0.8518266400362533
+breakfast scramble,vegetable breakfast scramble,0.8517907904792983
+bell pepper,orange bell pepper,0.8517348220409722
+turkey sandwich,turkey avocado sandwich,0.851602358781244
+mixed salad,mixed leaf salad,0.8514188068076195
+granola,grain-free granola,0.8514185123181643
+olive oil,extra virgin olive oil,0.8513553187707252
+lemon drizzle cake,lemon cake,0.8512687507525387
+lentil,lentil soup,0.8507985286326067
+risotto,seafood risotto,0.8507843199206059
+chicken bone broth,beef bone broth,0.8507519117725884
+mixed berry,mixed fruit,0.8505613760009658
+chicken broth,chicken stock,0.8502961074215463
+burrito,breakfast burrito,0.8500208926544812
+soy latte,soy cappuccino,0.8499129281620732
+hot sauce,chili sauce,0.8498922770723097
+vegetable burger,vegetable patty,0.849761075760171
+blt,blt sandwich,0.8495224777439168
+protein shake,protein smoothie,0.8494870619254582
+tri-tip,tri-tip salad,0.8491772122051849
+avocado sandwich,avocado toast,0.8490819296489688
+salted caramel,salted caramel ice cream,0.8490216761058789
+tomato sauce,spaghetti sauce,0.8487464178446393
+tri-tip salad,tri-tip sandwich,0.8485683050759454
+strawberry shortcake,shortcake,0.8485546101315671
+wheat bread,wheat toast,0.8484033448865123
+mint tea,peppermint tea,0.8481662842813938
+beet,beet juice,0.8479335759293269
+yerba mate,mate tea,0.8477880898853134
+tortilla,flour tortilla,0.847636103961108
+lentil,green lentil,0.8476328432518221
+blackcurrant,blackcurrant jam,0.8475174411643136
+flax,flax meal,0.8474890262224821
+vegetable pizza,vegan pizza,0.8474841333301297
+tuna fillet,fish fillet,0.8472370019655444
+yogurt,protein yogurt,0.8471756678286433
+grape,red grape,0.8470092962860829
+peanut butter,peanut butter sandwich,0.8468843055867479
+tortilla,corn tortilla,0.8465974390611943
+pretzel,peanut butter pretzel,0.84653434673813
+swiss sandwich,roast beef swiss sandwich,0.8464863242243198
+portobello,portobello mushroom,0.8459704060018594
+fat bomb,keto fat bomb,0.8456760209992068
+chowder,clam chowder,0.8456750504359221
+cinnamon,cinnamon tea,0.8456347074268485
+pasta salad,macaroni salad,0.8456245174149963
+diet pepsi,diet dr pepper,0.8455383175210476
+almond milk,almond creamer,0.845485081044963
+broth,beef broth,0.8454302228898203
+diet soda,diet pepsi,0.8453177041615231
+chutney,mango chutney,0.8451869788614031
+breakfast burrito,egg sausage burrito,0.8451114176814518
+pickle,dill pickle,0.8448983307889523
+burrito,cheese burrito,0.8448532692005999
+bean soup,black bean soup,0.8447489010699836
+wheat toast,whole grain toast,0.8445482012514276
+cauliflower,cauliflower cheese,0.844439040400263
+chai latte,chai,0.8443558265828095
+iced tea,unsweetened iced tea,0.8441026184469451
+kefir,kefir smoothie,0.8439361824146447
+lentil,red lentil,0.8438918915160311
+candy,chocolate candy,0.8438174060440726
+cod fillet,fish fillet,0.8436787512491037
+dandelion,dandelion tea,0.8436152912515121
+parmigiana,parmigiano,0.8432365310380986
+chili con carne,chili,0.8431184316096392
+pita,pita chip,0.843055902560361
+fish fillet,beef fillet,0.8425962055810052
+breakfast smoothie,breakfast shake,0.8424799484877475
+sourdough bread,sourdough toast,0.8421683189160655
+sunflower seed,sunflower,0.8417341814861004
+turmeric tea,turmeric latte,0.8413378472688909
+pork,pig,0.8413327447469159
+fettuccine alfredo,fettuccine,0.8410886178860082
+mixed nuts,mixed nut butter,0.8410039212498295
+goat cheese,goat milk,0.8406745157938869
+ginger tea,ginger water,0.8404177267886377
+olive oil,olive,0.8398626639385025
+panini,panino,0.8398348428052687
+cheese toastie,toastie,0.8396082864128009
+smoothie,protein smoothie,0.8395931393018983
+bran flake,cereal flake,0.8395525209056796
+milk,dairy,0.8395044276767839
+aperol,aperol spritz,0.839471616595719
+english breakfast tea,breakfast tea,0.8394055335614432
+pesto sauce,green pesto,0.8394050442835821
+ginger,ginger root,0.8393598755990097
+fruit smoothie,fruit and vegetable smoothie,0.839323914242025
+liquor,liqueur,0.839238989539384
+chipotle,chipotle chicken,0.8391982867584458
+sprite,sprite zero,0.8390811813648906
+wheat bread,wheat flour,0.8390597002923722
+egg sandwich,breakfast sandwich,0.8388669605548847
+coconut oil,coconut butter,0.8388360631844096
+bacon breakfast burrito,vegetable breakfast burrito,0.8388235092520843
+casserole,beef casserole,0.8387571982199904
+budweiser,bud light beer,0.8387032243467303
+noodle soup,chicken noodle soup,0.838591951967017
+broccoli,broccolini,0.8384624666144483
+ginger water,ginger juice,0.8384388245706977
+sour cream and onion dip,sour cream and onion chip,0.8382621362781784
+chocolate chip,dark chocolate chip,0.8381716825081195
+avocado,avocado salad,0.8381513754343805
+chicken sausage,chicken apple sausage,0.8381361670999067
+ginger tea,ginger juice,0.8380707665700626
+buffalo chicken,buffalo sauce,0.8373215537573068
+pepper,red pepper,0.837296140071383
+flour,wheat flour,0.8372231373986088
+carne asada,asada taco,0.8372166179046945
+turkey and cheese sandwich,turkey breast sandwich,0.8371350966316069
+french onion dip,sour cream and onion dip,0.8368055888909887
+budweiser,bud light,0.8367211177555941
+smoothie,breakfast smoothie,0.8366851633267144
+cranberry,dried cranberry,0.8365601652948433
+salad dressing,vinaigrette dressing,0.8365401108769008
+beef,beef steak,0.8363704047765248
+pesto,pesto genovese,0.8362065603261144
+egg burrito,bacon breakfast burrito,0.8360899606360354
+beef liver,chicken liver,0.8359631741276135
+wheat bread,wheat,0.8359403630295441
+pineapple,pineapple juice,0.8359401147785581
+zucchini,zucchini noodle,0.8358248781856272
+torte,torta,0.8356279020750976
+cacao,cacao powder,0.8355246883369452
+coca-cola,cola,0.8354169173916809
+tuna,tuna fillet,0.835313997607094
+sourdough,sourdough toast,0.835219094021869
+chocolate syrup,chocolate sauce,0.8350717114942918
+green pea,pea,0.835061576198016
+yogurt sauce,yogurt dressing,0.8349182532009766
+chicken salad,barbecue chicken salad,0.8347393587679114
+noodle,noodle soup,0.834709005856976
+yogurt,fruit yogurt,0.8346931752259552
+coconut milk,coconut cream,0.8345825979389265
+protein shake,protein powder,0.834522762169398
+mixed vegetables,mixed salad,0.8344183376826695
+shrimp taco,shrimp burrito,0.8343443151266936
+vegetable burrito,bean burrito,0.8342934476880735
+hazelnut,hazelnut spread,0.8341959995074713
+green leaf salad,mixed leaf salad,0.8340981942082588
+pasta alfredo,shrimp alfredo,0.8340356196144898
+fish burrito,fish taco,0.8339063086506376
+salad,vegetable salad,0.8338111201567495
+bacon breakfast burrito,egg and cheese burrito,0.8331690977101635
+lime,true lime,0.8331430305652092
+cherry,cherry pie,0.8329319000247943
+biscuit,breakfast biscuit,0.83291330348488
+onion,onion soup,0.8327915762886777
+fruit smoothie,berry smoothie,0.8327658579065252
+cider,hard cider,0.8327287017201674
+carrot,carrot juice,0.8325691797468802
+mixed vegetables,mixed greens,0.8325082639802825
+banana smoothie,smoothie,0.832479665997381
+carne asada,carne asada burrito,0.8322509159788375
+beef burger,beef patty,0.832152562534015
+peanut butter,nut butter,0.8319936454070312
+carne asada taco,carne asada burrito,0.8319290179382957
+toffee,toffee pudding,0.8318509552825892
+kombucha,ginger kombucha,0.8318138993170561
+taco,beef taco,0.8316673010755509
+vegetable scramble,egg scramble,0.83156872067179
+barbecue chicken,barbecue chicken salad,0.8314959968154607
+stew,beef stew,0.8313645137639483
+burrito,egg burrito,0.8311263220990026
+wheat,wheat flour,0.8310286510639282
+avocado,avocado sandwich,0.8307978023788543
+cacao,cacao tea,0.8306895041273079
+pepper,peppercorn,0.8305400060435875
+fennel,fennel tea,0.8304584960461063
+cornmeal,corn flour,0.8303974668694338
+salt,sea salt,0.8302638739544002
+sausage,breakfast sausage,0.8300530755986593
+papadum,papad,0.8300378511438481
+bean cheese burrito,egg and cheese burrito,0.8299495703330717
+mixed greens,spring mix greens,0.8296206606192089
+almond latte,almond creamer,0.8296192154638615
+cheez doodles,cheezies,0.8296140552921782
+curry,curry sauce,0.8294929553456115
+sweet potato chip,sweet potato fries,0.8294664000490554
+turkey avocado sandwich,turkey breast sandwich,0.8293942202985223
+pasta,pasta sauce,0.8291993303503515
+nut butter,mixed nut butter,0.8291252628837678
+granola,granola bowl,0.829106639309414
+banana smoothie,fruit smoothie,0.8290916774060653
+roast beef sandwich,beef sandwich,0.8289198766741368
+garlic spread,garlic dip,0.8288806784125535
+burrito,california burrito,0.8287692556133666
+alfredo sauce,shrimp alfredo,0.8287093481605674
+red bell pepper,green bell pepper,0.8286763889824276
+egg scramble,vegetable egg scramble,0.8286712561693725
+burrito,vegetable burrito,0.8286115888798136
+fish burrito,surf and turf burrito,0.8284012823555562
+celery,celery juice,0.8283879878873743
+peanut butter cracker,butter cracker,0.8283783987812792
+oatmeal,oatmeal cookie,0.8283499233828582
+wheat thins,corn thins,0.8283417685336754
+bacon breakfast burrito,egg sausage burrito,0.8283313814343267
+tuna salad,tuna mayo,0.8280789978945706
+curry,chicken curry,0.8278811784428939
+honeydew,honeydew melon,0.8276978438791782
+lemon,lemon tea,0.8272829128463783
+cashew butter,cashew nut,0.8271496614040297
+alcohol,liquor,0.8269363471635909
+bang energy,bang energy drink,0.8268831252540929
+butter,fat butter,0.826862871382527
+naan,garlic naan,0.826835075319595
+sausage,beef sausage,0.8267647950073023
+olive oil,olive oil dressing,0.8267523363432464
+lox,nova lox,0.826571423575593
+egg salad sandwich,egg and cheese sandwich,0.8264592184432269
+diet pepsi,diet cola,0.8263539519165979
+chex,chex mix,0.8262667595562099
+peanut butter,peanut,0.8262528855506688
+almond,almond milk,0.8261964672684
+breakfast sandwich,egg and bacon sandwich,0.8260982740829836
+beetroot,beet juice,0.8259322435521708
+ziti,baked ziti,0.8257488953334731
+greek salad,greek dressing,0.8255178948911599
+macaroni,mac and cheese,0.8253874203123008
+chobani,chobani flip,0.8252909532532949
+meat pie,pork pie,0.825111686734844
+fried chicken,fried chicken breast,0.8249819949257379
+bone broth,broth,0.824778433065584
+coconut milk,coconut,0.8247485631269775
+tart,tartlet,0.8245864693272517
+turkey sandwich,turkey salad,0.8245745771014621
+apple cider vinegar,apple cider,0.8243051591708053
+onion,red onion,0.8242568054157522
+garlic sauce,garlic butter,0.8241140212656182
+sunflower,sunflower seeds,0.8240561987679442
+enoki mushroom,enoki,0.8240069803490346
+soy yogurt,soy milk,0.8238226005150184
+spaghetti sauce,pizza sauce,0.8237752475031556
+green tea,diet green tea,0.8236544847193522
+beef liver,veal liver,0.8236165581722169
+shishito pepper,shishito,0.8233337965303821
+pork tenderloin,pork loin,0.8233259908060784
+hummus,garlic hummus,0.8232799668959233
+paneer,palak paneer,0.8231986473482606
+cashew,cashew butter,0.823084959331285
+coconut milk,coconut creamer,0.8230237130041491
+chocolate,chocolate candy,0.8229900679913291
+soy milk,soy creamer,0.8227778421462248
+salad,garden salad,0.8226832530824877
+fries,home fries,0.8226439596502548
+blueberry,blueberry jam,0.8226335672214845
+olive,green olive,0.8224711543350709
+blue cheese,blue cheese salad dressing,0.8224622336760296
+cashew cheese,cashew butter,0.8223187356448874
+sunflower seed butter,sunbutter,0.8222678425704297
+chocolate,cacao,0.8222455169246963
+sauce,pasta sauce,0.8220811914186994
+powerade,powerade zero,0.8220693497710074
+protein bar,quest protein bar,0.8219008426116146
+ground beef,ground turkey,0.8218958002526854
+green onion,green onion pancake,0.8218868194231133
+fritter,apple fritter,0.8217779451066429
+avocado,avocado oil,0.8215865491870215
+beef soup,beef broth,0.8215855760963333
+mozzarella,buffalo mozzarella,0.8214804042865718
+tuna,tuna sandwich,0.8214439313339257
+ginger,ginger tea,0.8214019330158813
+protein shake,meal shake,0.8212015410361156
+pasta sauce,pizza sauce,0.8211401297390859
+sesame,sesame oil,0.8208318027353514
+seaweed,seaweed salad,0.8207589996172309
+lemon water,lemon tea,0.820374598206385
+green smoothie,smoothie,0.8203265129035806
+protein drink,protein powder,0.8200417399898701
+chicken wrap,salad wrap,0.8200088561791715
+pumpkin,pumpkin soup,0.8199607570369313
+smoothie,berry smoothie,0.8199537368727129
+spanish rice,mexican rice,0.8196715498198989
+burrito,burrito bowl,0.8195475375310273
+hamburger,hamburger patty,0.8195218777433242
+beef soup,beef stew,0.8194602950513872
+chocolate milk,chocolate almond milk,0.819445750812979
+salad wrap,spinach wrap,0.819326951001099
+veal,veal liver,0.8193133088755638
+wheat bread,whole grain bread,0.8193019637668403
+cinnamon bun,cinnamon bread,0.8192464906313894
+yogurt,yogurt fruit,0.8191154731158012
+chicken alfredo,shrimp alfredo,0.8190971409435286
+whole wheat bread,whole wheat toast,0.8190962115879228
+coconut milk,coconut water,0.8190456264432601
+cannoli,cannelloni,0.8189534815619044
+ice cream,ice cream bar,0.8188584473078708
+chocolate tea,chocolate cacao husk tea,0.8187353550819041
+soy cappuccino,soy creamer,0.8186364298612164
+barley,barley grass,0.8185305753370029
+beef,beef burger,0.8185284685075473
+bell pepper,stuffed bell pepper,0.8184833820677793
+mixed greens,mixed leaf salad,0.8183699247033791
+root beer,diet root beer,0.8183322313701463
+shredded chicken,shredded cheese,0.8180755088534499
+chicken salad sandwich,egg salad sandwich,0.8180681675848342
+sauce,meat sauce,0.8180049211227534
+mango,mango juice,0.817947016807236
+cheese sandwich,egg and cheese sandwich,0.8176597590760971
+walnuts,walnut butter,0.8176162141660126
+flour tortilla,corn tortilla,0.8176014786317258
+chicken patty,burger patty,0.817587332155299
+mint,mint leaf,0.8175704446080193
+salad dressing,olive oil dressing,0.8173797660816172
+pork chop,lamb chop,0.8173222757811107
+almond,almond butter,0.8172069373798259
+peanut butter toast,peanut butter sandwich,0.8171682829710135
+bagel,wheat bagel,0.8171625414356982
+almond milk,almond latte,0.8171242819106601
+waffle,waffle fry,0.817065768484766
+beef taco,taco meat,0.8169869703484519
+pesto sauce,pesto genovese,0.8169025255982041
+blueberry jam,blackberry jam,0.8169018623902773
+ginger cookie,ginger cake,0.8167244626067489
+olive oil,virgin olive oil,0.8167034903428939
+green pea,garden pea,0.8166017951576411
+tuna,tuna salad,0.8165807392309442
+nut mix,mixed nut butter,0.816541514810622
+salad wrap,turkey wrap,0.8164666601992798
+buffalo wing,buffalo chicken,0.816423207252566
+mixed salad,mixed greens,0.8163874121725871
+yogurt fruit,fruit yogurt smoothie,0.8163567573027574
+vinaigrette,balsamic vinaigrette,0.8161902786362649
+chicken burger,chicken patty,0.8161009184071126
+marinara sauce,spaghetti sauce,0.8160916915285775
+shake,green shake,0.8160775792825568
+parmigiana,parmigiano reggiano,0.8160190190177621
+cheese sandwich,grilled cheese sandwich,0.8159692992973505
+cinnamon bread,cinnamon toast,0.8157874725548548
+doughnut,jam doughnut,0.8157769442643996
+yogurt,greek yogurt,0.8155549864453981
+tuna salad,tuna mayo sandwich,0.8155246691304276
+avocado sandwich,avocado salad,0.8153812229993674
+taco,taco meat,0.8153567982726928
+oat flake,cereal flake,0.8152593991594106
+coconut,coconut cream,0.8151714393910975
+chocolate,chocolate bar,0.8150463943224526
+italian dressing,olive oil dressing,0.815040682576273
+sausage,italian sausage,0.8149981560326399
+lemonade,pink lemonade,0.8148622556566731
+egg white,egg white delight,0.8148214267213363
+barbecue chicken,barbecue chicken pizza,0.8148164804431957
+coconut,coconut water,0.8147962489355535
+tandoori chicken,chicken tikka masala,0.814743909554675
+cranberry sauce,cranberry,0.8146457381075967
+lime,lime soda,0.8145513171951866
+kiwifruit,gold kiwifruit,0.8145448714163296
+greek yogurt,oikos greek yogurt,0.8145220120976151
+ahi poke,ahi tuna,0.8144646641796878
+cinnamon,cinnamon bread,0.8144159343570413
+ice cream,chocolate ice cream,0.8144034270616947
+fig,fig bar,0.8143992002389056
+celeriac,celery root,0.8143046234770119
+wine,red wine,0.8140659384007234
+chicken wrap,turkey wrap,0.8140389787433118
+sweet potato,sweet potato chip,0.8139038681324462
+chicken masala,chicken curry,0.813902522281257
+protein drink,protein smoothie,0.8138440754233622
+chocolate protein shake,whey protein shake,0.8138201402321794
+pâté,liver pâté,0.8137964816700857
+avocado,avocado toast,0.813791965367809
+sriracha mayo,sriracha sauce,0.8137660395117843
+lime soda,limeade,0.8137418000427463
+cashew cheese,cashew milk,0.8136732915869864
+pita bread,pita chip,0.8136301729566733
+sunflower butter,sunflower seeds,0.813465013725647
+sunflower seed,sunflower seed butter,0.813405692214778
+strawberry,strawberry jam,0.8133889851619016
+pepperoni,pepperoncini,0.8133376161942074
+carrot,carrot soup,0.8133180525292415
+ginger beer,gingerade,0.813228505930107
+burrito,shrimp burrito,0.8131014902824247
+pork,barbecue pork,0.8130434011567731
+mint tea,mint leaf,0.8128206951800021
+flax meal,flax milk,0.8128089020922726
+lemon ginger tea,lemongrass tea,0.81265739559562
+nut butter,walnut butter,0.8126456680149481
+lemonade,limeade,0.8125861665849201
+turkey bacon,turkey sausage,0.8125340780918052
+smoothie,vegetable smoothie,0.8124375270750529
+sausage patty,burger patty,0.812385018216353
+whole grain bread,whole grain toast,0.8119593116814634
+heavy whipping cream,whipped cream,0.811918242489654
+sunflower seed butter,sunflower seeds,0.8118298452824568
+yogurt,blueberry yogurt,0.811784141799055
+garlic bread,garlic butter,0.8115946704669962
+mint,mint candy,0.8115125646745862
+casserole,egg casserole,0.8114029194822405
+peppermint,peppermint bark,0.8113606071559774
+garlic,garlic soup,0.811333037711848
+vinaigrette dressing,olive oil and vinegar dressing,0.8112858319586369
+toast,toastie,0.811268755522185
+breakfast scramble,vegetable egg scramble,0.8112088270085505
+yogurt,frozen yogurt,0.8111021977903987
+tea,hot tea,0.81109389053416
+mushroom,mushroom soup,0.8109879053504143
+whey protein,whey isolate,0.8109737438271271
+hemp protein,hemp,0.8109252849357116
+yogurt,coconut yogurt,0.8109206349692206
+cheese sandwich,ham and cheese sandwich,0.8108936597113175
+pepsi,diet pepsi,0.810794851865809
+sausage,chicken sausage,0.8106978517965647
+cucumber,cucumber salad,0.8106968463192035
+salad,salad dressing,0.8105955813528607
+chicken masala,masala,0.8105852776165088
+ginger tea,ginger ale,0.8105294502738661
+meal shake,breakfast shake,0.8104893442821266
+black bean,black bean burger,0.8104522734168667
+yogurt parfait,parfait,0.8104375539513684
+tomato sauce,pizza sauce,0.8104065329369856
+lemon water,lemon juice,0.8103914297258901
+fried chicken,kentucky fried chicken,0.8103794330625309
+burrito,bean cheese burrito,0.8102361372879298
+coconut flake,cereal flake,0.8102234507875017
+stew,chicken stew,0.8102117547158445
+lemon tea,lemongrass tea,0.8100464337768134
+taco,chicken taco,0.8100166723205533
+chicken breast,turkey breast,0.8099929581992322
+almond butter,nut butter,0.8099037575190381
+sandwich,breakfast sandwich,0.8097559543585834
+vegetable broth,broth,0.8097342205187448
+cow milk,cow cream,0.8096956782400833
+swiss cheese,swiss sandwich,0.8095143820605832
+whey isolate,whey hydrolysate isolate zero,0.809495670601917
+parmigiana,parmesan,0.8092060395198855
+dill dip,dill,0.8091445078738815
+cashew cluster,cashew,0.8091353233703307
+whey,whey protein shake,0.8090726788189495
+tikka masala,chicken masala,0.8089997829954444
+beef,beef sandwich,0.8089374626686496
+coleslaw,broccoli slaw,0.8088242402495796
+mint chocolate,mint chocolate chip ice cream,0.8086950334840387
+muffin,blueberry muffin,0.80861578581705
+sunflower seed,sunflower butter,0.8086001643790965
+chicken parmesan,parmesan,0.8085066064130921
+turkey meat,ground turkey,0.808493225461943
+soup,noodle soup,0.808482089893412
+white coffee,white tea,0.8083208854303869
+apple juice,apple cider,0.8081579875978551
+ginger,ginger cookie,0.8080772956180793
+vegetable smoothie,vegetable juice,0.8080566522050773
+basil pesto,pesto pasta,0.8080080117418498
+mushroom soup,mushrooms,0.807907584190517
+beef patty,chicken patty,0.8078166580748888
+coconut cream,coconut cream pie,0.8077758622696172
+smoothie,fruit yogurt smoothie,0.8077652301732172
+bacon fat,meat fat,0.8077466817275674
+egg salad,egg sandwich,0.8076582117990565
+ginger biscuit,ginger cake,0.8076160035717014
+rosé wine,brut rosé,0.8076054241679955
+pork fillet,fish fillet,0.8075958892870656
+diet pepsi,diet mountain dew,0.807122747809795
+ham,ham sandwich,0.80699077079206
+lettuce,red leaf lettuce,0.806975173410107
+tomato,tomato soup,0.806956171937254
+breakfast casserole,casserole,0.8069374482654189
+pasty,cornish pasty,0.8069328134278968
+breakfast burrito,bean burrito,0.806927153378961
+cherry,cherry juice,0.806874962829748
+diet soda,diet dr pepper,0.8068258668757354
+strawberry jam,raspberry jam,0.8068045567124785
+fish burrito,shrimp burrito,0.8066740739449036
+apricot,apricot jam,0.8066191420184273
+tonkatsu,tonkotsu,0.8065546345605572
+oatmeal,oat,0.8064874518790153
+blueberry,dried blueberry,0.8064858774506196
+marinara sauce,pasta sauce,0.8064703158798587
+fennel,fennel sausage,0.8063104894582742
+peppermint,spearmint,0.806285687615027
+cheez doodles,cheez-its,0.806185062300433
+corn,sweet corn,0.8061683138066127
+diet coke,diet dr pepper,0.8061260299703392
+protein smoothie,breakfast smoothie,0.8060783517385557
+green salad,garden salad,0.8060316388303084
+chipotle,chipotle hot sauce,0.8059305424579548
+chili,chili sauce,0.8059207599039744
+kimchi,kimchi jjigae,0.8059135732865726
+soup,bean soup,0.8059063313930184
+ginger,ginger juice,0.8059034497087427
+bone broth,beef broth,0.8057784767150532
+sandwich,cheese sandwich,0.8057620340811464
+lemon pie,lemon cake,0.805618018347938
+vegetable wrap,spinach wrap,0.8055397783275777
+creamer,vanilla creamer,0.8055026165023078
+cookie,chocolate cookie,0.8052576534906251
+zoodles,zucchini noodle,0.8052522006329188
+sprout,broccoli sprout,0.8051608659865648
+steak,pork steak,0.8051475113313195
+protein bar,energy bar,0.8051415561342168
+pepper,black pepper,0.8049669693987741
+egg salad sandwich,egg and bacon sandwich,0.8048721223303765
+carne asada,carne asada fries,0.8048435781442163
+chia seed,chia pudding,0.8046455426174597
+sausage,smoked sausage,0.8046431918570439
+sushi,sashimi,0.8046050628730217
+tortilla chip,corn chip,0.8045408577454143
+black tea,black coffee,0.8045301802774192
+jelly sandwich,jelly,0.8044375535690846
+chocolate cookie,chocolate biscuit,0.8043914389343148
+pesto,pesto pasta salad,0.8043004561110633
+vanilla greek yogurt,strawberry greek yogurt,0.8042442230548704
+flax milk,flaxmeal,0.8042400371498455
+stevia,stevia drop,0.8041566703582179
+turkey meat,turkey sausage,0.8041203244163859
+salad dressing,balsamic salad dressing,0.804088961442186
+pork fillet,beef fillet,0.8040614754017098
+chicken thigh,chicken leg,0.8039863630556432
+lemon,lemon pie,0.8036996985375657
+apricot,dried apricot,0.8036801884588503
+vegan mayo,veganaise,0.8036172803343962
+protein powder,whey protein,0.8035120493197485
+plantain,plantain chip,0.8034921470502712
+cabbage,red cabbage,0.8034856222154623
+lindt chocolate,lindt ball,0.8034557741609124
+red bell pepper,orange bell pepper,0.8034104932332997
+carnitas taco,carne asada taco,0.803396951950994
+peanut butter,peanut butter bar,0.8031440735846209
+vegetable burrito,bean cheese burrito,0.803102284272107
+doughnut,donut hole,0.8028819142710854
+burger,chicken burger,0.802801720086926
+chicken broth,bone broth,0.802683458021298
+vegetable soup,vegetable broth,0.8026742748608907
+spaghetti,pasta,0.8026243826441646
+cashew,cashew milk,0.8026035793259503
+avocado,avocado spread,0.8024871546802927
+cholula hot sauce,chipotle hot sauce,0.8024526375049206
+cashew butter,cashew milk,0.802322017144955
+chicken wing,wing,0.8023083757355498
+apple juice,fruit juice,0.8022952962946348
+lemon tart,lemon pie,0.8022398580534835
+shortbread,shortcake,0.8022333644052908
+cracker,butter cracker,0.8022017944329446
+rye,rye bread,0.8020649006741722
+cake,chocolate cake,0.8019532585797291
+chow mein,lo mein,0.8018250799736523
+protein shake,breakfast shake,0.8016760903423047
+chai,masala chai,0.801483952933365
+ginger,ginger cake,0.8014821621404044
+fruit smoothie,breakfast smoothie,0.8012439730341672
+balsamic vinaigrette,vinaigrette dressing,0.8011669314896606
+lemon,lemon bar,0.8010723903822047
+spinach,spinach shake,0.8010407363158516
+pesto,kale pesto,0.8008919042409041
+kefir smoothie,milk kefir,0.8007909728041601
+caramel,salted caramel,0.8007533298747391
+diet cola,diet dr pepper,0.800717355645437
+coca-cola zero,powerade zero,0.8006130727455554
+wheat bread,wheat bagel,0.8005702052888914
+cracker,cheese cracker,0.800493277271179
+tuna sandwich,tuna melt,0.8004032585034561
+coconut milk,coconut oil,0.8003971169110329
+chicken korma,chicken tikka masala,0.8002425821739791
+cereal,cereal bar,0.8001663205062277
+blueberry,blueberry yogurt,0.8001224326021619
+puff pastry,pastry,0.8000555562170901
+chicken breast,duck breast,0.8000422782758139
+oat milk,oat flour,0.8000400768393172
+cherry juice,cherry jam,0.8000207273884616
