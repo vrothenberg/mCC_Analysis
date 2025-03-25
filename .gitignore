@@ -3,6 +3,13 @@
 src/
 data/
 edamam_results/
+gemini_edamam/
+pickles/
+figures/
+gemini_edamam_nutrition/
 food_info/
 *.pkl
 *.png
+*.zip
+*.csv
+*.json
